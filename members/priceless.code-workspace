@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../priceless"
+		},
+		{
+			"path": "../../../priceless/tpriceless"
+		},
+		{
+			"path": "../../../Electron-project/eqmap_crater"
+		}
+	]
+}
