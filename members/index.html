@@ -133,5 +133,11 @@
       window.onload = function() {
         $("html").fadeIn(2000)
       }
+      var burger = document.querySelector(".navbar");
+            var menu = document.querySelector('#navbarMenu');
+            burger.addEventListener("click", function() {
+                burger.classList.toggle("is-active");
+                menu.classList.toggle("is-active");
+            });
     </script>
 </html>
